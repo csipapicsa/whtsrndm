@@ -1,1 +1,0 @@
-{"version": 0.6, "generator": "Overpass API 0.7.59 e21c39fe", "osm3s": {"timestamp_osm_base": "2023-03-01T09:31:38Z", "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."}, "elements": [{"type": "node", "id": 837549870, "lat": 47.0688311, "lon": 20.1877946, "tags": {"tourism": "viewpoint"}}]}
