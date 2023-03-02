@@ -4,13 +4,18 @@ from collections import defaultdict
 #reload
 import importlib as i
 
+# read-in-datasets
 import json
+from shapely import wkt
+
+import io
 
 import geopandas as gpd
 import pandas as pd
 import matplotlib
 import mapclassify
 import osmnx as ox
+import geopy
 
 # save resc
 import gc
@@ -21,6 +26,9 @@ import folium
 from shapely import geometry
 import geog
 from shapely.geometry import Polygon
+# search for the closest city/village
+import reverse_geocoder as rg
+
 
 # multipolygon maker
 from shapely.ops import unary_union
