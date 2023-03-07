@@ -1,0 +1,57 @@
+Barlangok ?
+https://csodahelyek.hu/2021/08/23/noszvaj-helyi-izek-turak-latnivalok/
+
+
+
+Összesen: 8123
+Website : No
+Picture: No
+
+
+7626
+URL: itt van csomó még - üres
+5880
+source:url
+5861
+sorce: if it is a link:
+5824
+url:kozterkep
+url:tuhu
+url:miserend 2 találat, de ez király! 
+wikimedia_commons: some picture link
+inscription:url : some links
+
+subject:wikipedia - hát ez ilyen hivvatkozás inkább in general. Inkább leírással közösen, meg mi is ez (memorial írja hogy mi a type)
+
+note: contains some url
+
+NA innen kezd a móka
+Google keresés:
+--------------------- Forget: Artwork type
+- name + artist 
+- inscription (it it is not a number)  + memorial type
+- name + memoiral type (fű, ez már fisifosi, talán város? ) 
+- name + + description + city? 
+1947
+- name + material + city? 
+
+No name:
++ artwork type, city? 
+512 we dont know
+KB 7%-a kuka
+
+
+
+-----------------------
+
+Reverse geocoding:
+https://medium.com/@pether.maciejewski/reverse-geocode-with-python-real-example-with-reverse-geocode-917c0357b32f
+
+Kilátók Magyarországon:
+https://hu.wikipedia.org/wiki/Magyarorsz%C3%A1gi_kil%C3%A1t%C3%B3k_list%C3%A1ja
+
+Rossz linkek adatbázis
+https://docs.google.com/spreadsheets/d/1tSQuZYzF2auiCb6Kzmy5lLwRVbOg-XAuZsHy6mVYNrU/edit?resourcekey#gid=203505224
+
+
+
